@@ -1,0 +1,31 @@
+[318月2025 05:46:35.789] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgedatauserdev, --assetIndex, 5, --assetsDir, C:\Users\mr099\.gradle\caches\forge_gradle\assets, --gameDir, ., --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --mod, tinker_rapier, --all, --output, D:\minecraft_1201_modding\Tinkers-Rapier\src\generated\resources, --existing, D:\minecraft_1201_modding\Tinkers-Rapier\src\main\resources, --existing-mod, tconstruct]
+[318月2025 05:46:35.796] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.11 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
+[318月2025 05:46:35.919] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgedatauserdev
+[318月2025 05:46:35.961] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/mr099/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%23128!/ Service=ModLauncher Env=CLIENT
+[318月2025 05:46:36.227] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\mr099\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.4.0\f0c0b352173d0a378cbdcec9cfc4ba65899a721\javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[318月2025 05:46:36.231] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\mr099\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.4.0\e862740d8c84d08dbfedea412bef88fe42e727c5\lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[318月2025 05:46:36.234] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\mr099\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.4.0\5719b3a297a33f877ed5dde4cb4bd75c859096af\mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[318月2025 05:46:36.238] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\mr099\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.4.0\235975dafa4309945b59c56b53f31dc5b65a6051\fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
+[318月2025 05:46:36.345] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[318月2025 05:46:38.366] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgedatauserdev' with arguments [--gameDir, ., --assetsDir, C:\Users\mr099\.gradle\caches\forge_gradle\assets, --assetIndex, 5, --mod, tinker_rapier, --all, --output, D:\minecraft_1201_modding\Tinkers-Rapier\src\generated\resources, --existing, D:\minecraft_1201_modding\Tinkers-Rapier\src\main\resources, --existing-mod, tconstruct]
+[318月2025 05:46:38.638] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [tinker_rapier]
+[318月2025 05:46:41.637] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
+[318月2025 05:46:41.639] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.0 Initialized
+[318月2025 05:46:41.890] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager...
+[318月2025 05:46:41.913] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager took 20.71 ms
+[318月2025 05:46:44.582] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/mr099/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.4.0_mapped_official_1.20.1/forge-1.20.1-47.4.0_mapped_official_1.20.1-recomp.jar%23191!/assets/.mcassetsroot' uses unexpected schema
+[318月2025 05:46:44.583] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/mr099/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.4.0_mapped_official_1.20.1/forge-1.20.1-47.4.0_mapped_official_1.20.1-recomp.jar%23191!/data/.mcassetsroot' uses unexpected schema
+[318月2025 05:46:44.863] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
+[318月2025 05:46:44.876] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 12 ms
+[318月2025 05:46:44.876] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tinker's Rapier Tool Definition
+[318月2025 05:46:44.890] [main/INFO] [net.minecraft.data.DataGenerator/]: Tinker's Rapier Tool Definition finished after 13 ms
+[318月2025 05:46:44.890] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tinker's Rapier Tinker Station Slot Layouts
+[318月2025 05:46:44.906] [main/INFO] [net.minecraft.data.DataGenerator/]: Tinker's Rapier Tinker Station Slot Layouts finished after 16 ms
+[318月2025 05:46:44.906] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:block mod id tinker_rapier
+[318月2025 05:46:44.909] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:block mod id tinker_rapier finished after 2 ms
+[318月2025 05:46:44.909] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:item mod id tinker_rapier
+[318月2025 05:46:44.916] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:item mod id tinker_rapier finished after 7 ms
+[318月2025 05:46:44.916] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Material Part Generator - Tinker's Rapier Tool Texture - Tinkers' Construct Materials
+[318月2025 05:46:45.017] [main/INFO] [net.minecraft.data.DataGenerator/]: Material Part Generator - Tinker's Rapier Tool Texture - Tinkers' Construct Materials finished after 99 ms
+[318月2025 05:46:45.017] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 155 ms
+[318月2025 05:46:45.027] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 578, old count: 578, new count: 579, removed stale: 0, written: 1

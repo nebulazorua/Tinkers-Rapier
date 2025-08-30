@@ -1,0 +1,16 @@
+{
+  "type": "tconstruct:part_builder",
+  "cost": 6,
+  "pattern": "tinker_rapier:slender_blade",
+  "pattern_item": [
+    {
+      "tag": "tconstruct:patterns/default"
+    },
+    {
+      "item": "tinker_rapier:slender_blade_cast"
+    }
+  ],
+  "result": {
+    "item": "tinker_rapier:slender_blade"
+  }
+}

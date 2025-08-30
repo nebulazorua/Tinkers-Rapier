@@ -1,0 +1,41 @@
+{
+  "loader" : "tconstruct:tool",
+  "parent" : "forge:item/default-tool",
+  "textures" : {
+    "head" : "tinker_rapier:item/tool/rapier/blade",
+    "broken_head" : "tinker_rapier:item/tool/rapier/broken_blade",
+    "guard_cup" : "tinker_rapier:item/tool/rapier/guard_cup",
+    "guard" : "tinker_rapier:item/tool/rapier/guard",
+    "handle" : "tinker_rapier:item/tool/rapier/handle"
+  },
+  "modifier_roots" : [ "tinker_rapier:item/tool/rapier/modifiers/" ],
+  "parts" : [ {
+    "name" : "handle",
+    "index" : 3
+  }, {
+    "name" : "head",
+    "index" : 0,
+    "broken" : "broken_head"
+  }, {
+    "name" : "guard",
+    "index" : 2
+  }, {
+    "name" : "guard_cup",
+    "index" : 1
+  } ],
+  "display" : {
+    "gui" : {
+      "rotation" : [ 0, 0, 90 ]
+    },
+    "firstperson_righthand" : {
+      "rotation" : [ 0, 90, -25 ],
+      "translation" : [ 0, 2, 0.8 ],
+      "scale" : [ 0.75, 0.75, 0.75 ]
+    },
+    "firstperson_lefthand" : {
+      "rotation" : [ 0, -90, 25 ],
+      "translation" : [ 0, 2, 0.8 ],
+      "scale" : [ 0.75, 0.75, 0.75 ]
+    }
+  }
+}
