@@ -17,11 +17,12 @@ import slimeknights.tconstruct.common.registration.CastItemObject;
 import slimeknights.tconstruct.library.tools.helper.ToolBuildHandler;
 import slimeknights.tconstruct.library.tools.item.IModifiable;
 import slimeknights.tconstruct.library.tools.part.IMaterialItem;
+import slimeknights.tconstruct.tools.item.ModifierCrystalItem;
 
 public class RapierCreativeGroup {
 
 	public static final DeferredRegister<CreativeModeTab> CREATIVE_MODE_TABS = DeferredRegister
-			.create(Registries.CREATIVE_MODE_TAB, RapierMain.MODID);
+			.create(Registries.CREATIVE_MODE_TAB, RapierMod.MODID);
 
 	public static final RegistryObject<CreativeModeTab> ITEMS = CREATIVE_MODE_TABS.register("umapyoi",
 			() -> CreativeModeTab.builder().icon(() -> TiCItemRegistry.RAPIER.get().getRenderTool())

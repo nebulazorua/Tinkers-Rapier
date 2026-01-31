@@ -1,0 +1,9 @@
+{
+  "level_display": "tconstruct:no_levels",
+  "modules": [
+    {
+      "type": "tinker_rapier:sting"
+    }
+  ],
+  "tooltip_display": "always"
+}

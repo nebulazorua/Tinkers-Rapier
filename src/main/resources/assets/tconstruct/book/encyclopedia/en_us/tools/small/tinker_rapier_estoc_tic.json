@@ -1,0 +1,14 @@
+{
+  "tool": "tinker_rapier:estoc_tic",
+  "text": [
+    { "text": "The Estoc is a precise, light sword that allows you to hop backwards with a right click." },
+    {"text":  "Silky grants shearing.", "paragraph": true}
+  ],
+  "properties": [
+    "1.8 Attack Speed",
+    "Backpedaling",
+	"Armor Pierce II",
+    "3 Upgrade Slots",
+    "1 Ability Slot"
+  ]
+}

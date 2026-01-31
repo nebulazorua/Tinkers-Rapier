@@ -1,12 +1,12 @@
 package cn.mcmod.tinker_rapier.data;
 
-import cn.mcmod.tinker_rapier.RapierMain;
+import cn.mcmod.tinker_rapier.RapierMod;
 import slimeknights.tconstruct.library.client.data.material.AbstractPartSpriteProvider;
 
 public class RapierTextureProvider extends AbstractPartSpriteProvider{
 
     public RapierTextureProvider() {
-        super(RapierMain.MODID);
+        super(RapierMod.MODID);
     }
 
     @Override

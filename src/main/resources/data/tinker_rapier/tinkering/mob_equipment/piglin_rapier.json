@@ -1,0 +1,34 @@
+{
+	"entity": "#forge:piglins",
+	"equip": {
+		"chance": 0.05,
+		"match": {
+			"type": "mantle:set",
+			"items": [
+				"minecraft:golden_sword",
+				"minecraft:golden_axe"
+			]
+		},
+		"materials": [
+			{
+				"type": "tconstruct:random",
+				"tag": "tconstruct:nether"
+			},
+			{
+				"type": "tconstruct:random",
+				"tag": "tconstruct:nether"
+			},
+			{
+				"type": "tconstruct:random",
+				"tag": "tconstruct:nether"
+			},
+			{
+				"type": "tconstruct:random",
+				"tag": "tconstruct:nether"
+			}
+		],
+		"priority": 100,
+		"slot": "mainhand",
+		"tool": "tinker_rapier:rapier_tic"
+	}
+}

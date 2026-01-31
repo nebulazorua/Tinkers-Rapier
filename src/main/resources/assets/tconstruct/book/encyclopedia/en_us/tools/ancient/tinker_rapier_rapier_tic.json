@@ -1,0 +1,15 @@
+{
+  "tool": "tinker_rapier:rapier_tic",
+  "text": [
+    { "text": "The Rapier is a light weapon that specialises in speed and partial armor piercing. It can be obtained from pillager outposts and woodland mansions, and gifted by weaponsmiths after a raid." },
+    {"text":  "Silky grants shearing. 50% of its damage pierces armor.", "paragraph": true}
+  ],
+  "properties": [
+    "+1 Attack Damage",
+    "3.0 Attack Speed",
+    "75% Attack Modifier",
+    "Backpedaling",
+    "2 Upgrade Slots",
+    "1 Ability Slot"
+  ]
+}

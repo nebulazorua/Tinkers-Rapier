@@ -1,17 +1,18 @@
-// 1.20.1	2025-08-31T05:30:58.8428034	Tags for minecraft:item mod id tinker_rapier
+// 1.20.1	2026-01-31T08:41:48.6479956	Tags for minecraft:item mod id tinker_rapier
 eca721807b89299ffd84f475f57c04998810028e data/minecraft/tags/items/swords.json
 3bd8015cd355a4349d5199fcf18c2fb8ac50124d data/tconstruct/tags/items/casts/gold.json
 c3ab4227c0fcd2d08552b9073d76bed582be5992 data/tconstruct/tags/items/casts/multi_use.json
 b1bd4a5afdf297890267228d115e0be8074dfabf data/tconstruct/tags/items/casts/red_sand.json
 0fc10731be19e04c294374f42af714bf693e3d39 data/tconstruct/tags/items/casts/sand.json
 98bc615a4144e806d1307d0ff6099a02c86d4da5 data/tconstruct/tags/items/casts/single_use.json
+70d61e29e4d004d97e5862f9517d6a0b631aa49c data/tconstruct/tags/items/modifiable/ancient.json
 eca721807b89299ffd84f475f57c04998810028e data/tconstruct/tags/items/modifiable/bonus_slots.json
 eca721807b89299ffd84f475f57c04998810028e data/tconstruct/tags/items/modifiable/durability.json
 eca721807b89299ffd84f475f57c04998810028e data/tconstruct/tags/items/modifiable/harvest.json
 eca721807b89299ffd84f475f57c04998810028e data/tconstruct/tags/items/modifiable/interactable/right.json
 eca721807b89299ffd84f475f57c04998810028e data/tconstruct/tags/items/modifiable/melee/primary.json
 eca721807b89299ffd84f475f57c04998810028e data/tconstruct/tags/items/modifiable/multipart.json
-eca721807b89299ffd84f475f57c04998810028e data/tconstruct/tags/items/modifiable/small.json
+b4795026bba2571dcf91ae7c4ae43369104a69ff data/tconstruct/tags/items/modifiable/small.json
 eca721807b89299ffd84f475f57c04998810028e data/tconstruct/tags/items/modifiable/unsalvageable.json
 69928b68925a7057de2048d6d2c96d055a653059 data/tconstruct/tags/items/parts.json
 3bd8015cd355a4349d5199fcf18c2fb8ac50124d data/tinker_rapier/tags/items/casts/multi_use/slender_blade.json

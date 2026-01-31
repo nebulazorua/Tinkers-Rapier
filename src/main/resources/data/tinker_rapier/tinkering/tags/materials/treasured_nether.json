@@ -1,0 +1,17 @@
+{
+	"values": [
+		"tconstruct:manyullyn",
+		"tconstruct:hepatizon",
+		"tconstruct:cobalt",
+		"tconstruct:nahuatl",
+		"tconstruct:rose_gold",
+		"tconstruct:ancient",
+		"tconstruct:ancient_hide",
+		"tconstruct:cinderslime",
+		"tconstruct:blazing_bone",
+		{
+			"id": "tconstruct:necronium",
+			"required": false
+		}
+	]
+}

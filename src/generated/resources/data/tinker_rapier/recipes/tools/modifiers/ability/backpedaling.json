@@ -1,0 +1,39 @@
+{
+  "type": "tconstruct:modifier",
+  "allow_crystal": true,
+  "inputs": [
+    {
+      "item": "minecraft:piston"
+    },
+    {
+      "type": "mantle:fluid_container",
+      "amount": 1000,
+      "display": {
+        "item": "minecraft:water_bucket"
+      },
+      "tag": "mantle:water"
+    },
+    {
+      "item": "minecraft:piston"
+    },
+    {
+      "item": "minecraft:piston"
+    },
+    {
+      "item": "minecraft:piston"
+    }
+  ],
+  "level": 1,
+  "result": "tinker_rapier:backpedaling",
+  "slots": {
+    "abilities": 1
+  },
+  "tools": [
+    {
+      "tag": "tconstruct:modifiable/melee/weapon"
+    },
+    {
+      "tag": "tconstruct:modifiable/harvest"
+    }
+  ]
+}

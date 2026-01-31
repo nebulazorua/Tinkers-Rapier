@@ -1,0 +1,17 @@
+{
+	"modifier_id": "tinker_rapier:backpedaling",
+	"text": [
+		{
+			"text": "Allows you to back hop with the tool on use."
+		},
+		{
+			"text": "Causes exhaustion when used, particularly when used in the air.",
+			"paragraph": true
+		}
+	],
+	"more_text_space": true,
+	"effects": [
+		"Maximum of 1 level",
+		"Requires 1 ability slot"
+	]
+}

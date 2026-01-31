@@ -1,12 +1,22 @@
 {
-	"item.tinker_rapier.slender_blade":"Slender Blade",
-	"item.tinker_rapier.slender_blade_cast":"Slender Blade Gold Cast",
-	"item.tinker_rapier.slender_blade_sand_cast":"Slender Blade Sand Cast",
-	"item.tinker_rapier.slender_blade_red_sand_cast":"Slender Blade Red Sand Cast",
+  "item.tinker_rapier.slender_blade":"Slender Blade",
+  "item.tinker_rapier.slender_blade_cast":"Slender Blade Gold Cast",
+  "item.tinker_rapier.slender_blade_sand_cast":"Slender Blade Sand Cast",
+  "item.tinker_rapier.slender_blade_red_sand_cast":"Slender Blade Red Sand Cast",
 
-    "item.tinker_rapier.rapier_tic":"Rapier",
-    "item.tinker_rapier.rapier_tic.description":"The Rapier is a special weapon that relies on quick strikes to defeat foes.",
-    "item.tinker_rapier.estoc_tic":"Estoc",
-    "item.tinker_rapier.estoc_tic.description":"The Estoc is an armor-specific weapon, relying on the slender blade to pierce the enemy's armor.",
-    "itemGroup.tinker_rapier":"Tinker's Rapier"
+  "item.tinker_rapier.rapier_tic":"Rapier",
+
+  "item.tinker_rapier.estoc_tic":"Estoc",
+  "item.tinker_rapier.estoc_tic.description":"The Estoc is a light, mobile weapon. Right click: Do a short hop backwards.",
+
+  "modifier.tinker_rapier.backpedaling": "Backpedaling",
+  "modifier.tinker_rapier.backpedaling.flavor": "Two hops this time!",
+  "modifier.tinker_rapier.backpedaling.description": "Tool can do a back hop",
+  "modifier.tinker_rapier.stinging": "Stinging",
+  "modifier.tinker_rapier.stinging.flavor": "Provoke the blade, and suffer it's sting!",
+  "modifier.tinker_rapier.stinging.description": "Half of the weapon's damage bypasses armor on a full charge.",
+
+
+
+  "itemGroup.tinker_rapier":"Tinker's Rapier"
 }

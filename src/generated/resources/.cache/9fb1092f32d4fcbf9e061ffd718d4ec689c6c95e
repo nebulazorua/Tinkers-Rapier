@@ -1,4 +1,4 @@
-// 1.20.1	2025-08-31T05:30:58.8483972	Recipes
+// 1.20.1	2026-02-01T01:40:15.1256105	Recipes
 ff1035548ada4456d3379dddb8ca385ce7ed252d data/tinker_rapier/recipes/smeltery/casts/gold/slender_blade.json
 186e5bb1147e8c9e43975904054c4ebaad19efed data/tinker_rapier/recipes/smeltery/casts/red_sand/builder_block/slender_blade.json
 e6e99e81226ef5cfda995cbec5383a9e15841403 data/tinker_rapier/recipes/smeltery/casts/red_sand/builder_cast/slender_blade.json
@@ -7,7 +7,7 @@ ef4b1b043f9aa8583e69e0acf3567db36b356173 data/tinker_rapier/recipes/smeltery/cas
 2387c75d7154efba7756566c3b5a493d075b5fb8 data/tinker_rapier/recipes/smeltery/casts/sand/builder_cast/slender_blade.json
 3f40fcd0574a913695e0fde6c0b0608274942765 data/tinker_rapier/recipes/smeltery/casts/sand/molding/slender_blade.json
 d72cebcc2c0da4f1ee1b602730da11cdc6a844e7 data/tinker_rapier/recipes/tools/building/estoc_tic.json
-2d3e2e72cfb4e0f74822768e5f614a6c42afae09 data/tinker_rapier/recipes/tools/building/rapier_tic.json
+bd50527f1b44c4fc0f4476fa543c1464a9cc65d9 data/tinker_rapier/recipes/tools/modifiers/ability/backpedaling.json
 d34ef6efdb5f027bdf567dd56ac6f0e8f35ae110 data/tinker_rapier/recipes/tools/parts/builder/slender_blade.json
 98f54559b5320a1f059d549bca8dc44dd4700db3 data/tinker_rapier/recipes/tools/parts/casting/slender_blade_composite.json
 d0576b3b468cfb3edfa62e4ecfc65110c2e9ea8a data/tinker_rapier/recipes/tools/parts/casting/slender_blade_gold_cast.json

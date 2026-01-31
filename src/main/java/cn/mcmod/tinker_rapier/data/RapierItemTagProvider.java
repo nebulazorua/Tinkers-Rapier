@@ -1,18 +1,9 @@
 package cn.mcmod.tinker_rapier.data;
 
-import static slimeknights.tconstruct.common.TinkerTags.Items.BONUS_SLOTS;
-import static slimeknights.tconstruct.common.TinkerTags.Items.DURABILITY;
-import static slimeknights.tconstruct.common.TinkerTags.Items.HARVEST;
-import static slimeknights.tconstruct.common.TinkerTags.Items.INTERACTABLE_RIGHT;
-import static slimeknights.tconstruct.common.TinkerTags.Items.MELEE_PRIMARY;
-import static slimeknights.tconstruct.common.TinkerTags.Items.MULTIPART_TOOL;
-import static slimeknights.tconstruct.common.TinkerTags.Items.SMALL_TOOLS;
-import static slimeknights.tconstruct.common.TinkerTags.Items.UNSALVAGABLE;
-
 import java.util.concurrent.CompletableFuture;
 import java.util.function.Consumer;
 
-import cn.mcmod.tinker_rapier.RapierMain;
+import cn.mcmod.tinker_rapier.RapierMod;
 import cn.mcmod.tinker_rapier.item.TiCItemRegistry;
 import net.minecraft.core.HolderLookup;
 import net.minecraft.data.PackOutput;
@@ -26,11 +17,13 @@ import net.minecraftforge.common.data.ExistingFileHelper;
 import slimeknights.tconstruct.common.TinkerTags;
 import slimeknights.tconstruct.common.registration.CastItemObject;
 
+import static slimeknights.tconstruct.common.TinkerTags.Items.*;
+
 public class RapierItemTagProvider extends ItemTagsProvider {
 
     public RapierItemTagProvider(PackOutput pGenerator, CompletableFuture<HolderLookup.Provider> lookupProvider, CompletableFuture<TagLookup<Block>> provider,
             ExistingFileHelper existingFileHelper) {
-		super(pGenerator, lookupProvider, provider, RapierMain.MODID, existingFileHelper);
+		super(pGenerator, lookupProvider, provider, RapierMod.MODID, existingFileHelper);
 	}
 
     @Override
@@ -60,7 +53,7 @@ public class RapierItemTagProvider extends ItemTagsProvider {
 				SMALL_TOOLS, BONUS_SLOTS, ItemTags.SWORDS, UNSALVAGABLE);
 		
 		addToolTags(TiCItemRegistry.RAPIER.get(), MULTIPART_TOOL, DURABILITY, HARVEST, MELEE_PRIMARY, INTERACTABLE_RIGHT,
-				SMALL_TOOLS, BONUS_SLOTS, ItemTags.SWORDS, UNSALVAGABLE);
+				ANCIENT_TOOLS, BONUS_SLOTS, ItemTags.SWORDS, UNSALVAGABLE);
 		
 	}
 

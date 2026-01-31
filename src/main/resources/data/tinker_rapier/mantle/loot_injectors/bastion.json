@@ -1,0 +1,82 @@
+{
+	"name": "minecraft:chests/bastion_other",
+	"pools": [
+		{
+			"name": "pool1",
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "tconstruct:add_tool_data",
+							"materials": [
+								{
+									"type": "tconstruct:random",
+									"tag": "tconstruct:nether"
+								},
+								{
+									"type": "tconstruct:random",
+									"tag": "tconstruct:nether"
+								},
+								{
+									"type": "tconstruct:random",
+									"tag": "tconstruct:nether"
+								},
+								{
+									"type": "tconstruct:random",
+									"tag": "tconstruct:nether"
+								}
+							]
+						},
+						{
+							"add": false,
+							"damage": {
+								"type": "minecraft:uniform",
+								"max": 0.9,
+								"min": 0.1
+							},
+							"function": "minecraft:set_damage"
+						}
+					],
+					"weight": 6,
+					"name": "tinker_rapier:rapier_tic"
+				},
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "tconstruct:add_tool_data",
+							"materials": [
+								{
+									"type": "tconstruct:ancient"
+								},
+								{
+									"type": "tconstruct:ancient"
+								},
+								{
+									"type": "tconstruct:ancient"
+								},
+								{
+									"type": "tconstruct:ancient"
+								}
+							]
+						},
+						{
+							"add": false,
+							"damage": {
+								"type": "minecraft:uniform",
+								"max": 0.8,
+								"min": 0.1
+							},
+							"function": "minecraft:set_damage"
+						}
+					],
+					"weight": 1,
+					"name": "tinker_rapier:rapier_tic"
+				}
+
+			],
+			"name": "main"
+		}
+	]
+}
